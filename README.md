@@ -1,4 +1,4 @@
-# Python_Assignment
+# Assignment_1
 
 Task 1 : Program Performs Addition, Substraction, Multiplication and division, We take the numbers from the user with help of input() function and use arithmetic operators to perform our task.
 

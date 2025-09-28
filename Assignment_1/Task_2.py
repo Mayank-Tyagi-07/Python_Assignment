@@ -1,8 +1,9 @@
 #Creating Personalized Greeting
 
-#taking input from the user
+
+# Taking input from the user
 first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
 
-#Printing the Output or Personalized Greeting
-print("Hello,",first_name, last_name,"! Welcome to the Python program.")
+# Displaying the output
+print(f"Hello, {first_name} {last_name}! Welcome to the Python program.")
